@@ -1,7 +1,12 @@
 body {
-	background-color: white
-	font: helvetica;
+	text-align: center;
+	background: url(https://www.besthealthmag.ca/wp-content/uploads/sites/16/2018/04/what_does_acupuncture_treat.jpg);
+	background size: cover;
+	font-family: Helvetica;
 	color: 979797;
+	
+	backround-image: 
+	url("images/acupuncture.jpg";
 }
 h1 {
 	font-size: 40px;
