@@ -1,0 +1,19 @@
+body {
+	background-color: white
+	font: helvetica;
+	color: 979797;
+}
+h1 {
+	font-size: 40px;
+	font font-weight: bold;
+}
+hr {width: 200px;}
+h2{
+	font size: 24px;
+}
+p{
+font-size: 18px;
+}
+ul{
+	font-size: 18px;
+}
