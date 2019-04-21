@@ -1,17 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Open+Sans');
+
 body {
 	text-align: center;
-	font-family: Helvetica;
+	font-family: 'Open Sans', sans-serif;
 	color: #666666;
 }
 h1 {
-	font-family: garamond;
+	font-family: 'Crimson Text', serif;
 	font-size: 30px;
 	font font-weight: bold;
 	color: #556b2f;
 }
 hr {width: 200px;}
 h2 {
-	font size: 24px;
+	font size: 22px;
 }
 p, ul{
 font-size: 18px;
