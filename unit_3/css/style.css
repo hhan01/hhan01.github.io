@@ -1,11 +1,13 @@
 body {
 	text-align: center;
 	font-family: Helvetica;
-	color: A9A9A9;
+	color: #666666;
 }
 h1 {
+	font-family: garamond;
 	font-size: 30px;
 	font font-weight: bold;
+	color: #556b2f;
 }
 hr {width: 200px;}
 h2 {
