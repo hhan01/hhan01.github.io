@@ -25,6 +25,8 @@ section{
 	border: 1px black solid;
     padding: 20px;
 }
+
+
 h1 {
 	font-family: 'Crimson Text', serif;
 	font-size: 30px;
@@ -36,13 +38,6 @@ h2 {
 	font-family: 'Crimson Text', serif;
 	font size: 24px;
 }
-h3{
-	font-family: 'Open Sans', sans-serif;
-	color: #666666;
-	font size: 14px;
-	font-weight: regular;
-}
-
 body {
 	text-align: center;
 	font-family: 'Open Sans', sans-serif;
