@@ -1,9 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Crimson+Text|Open+Sans');
 
-body {
-	text-align: center;
-	font-family: 'Open Sans', sans-serif;
-	color: #666666;
+header{
+	background-color: #4286f4;
+	border: 1px black solid;
 }
 h1 {
 	font-family: 'Crimson Text', serif;
@@ -11,10 +10,22 @@ h1 {
 	font font-weight: bold;
 	color: #556b2f;
 }
-hr {width: 200px;}
+
 h2 {
 	font-family: 'Crimson Text', serif;
-	font size: 22px;
+	font size: 24px;
+}
+h3{
+	font-family: 'Open Sans', sans-serif;
+	color: #666666;
+	font size: 14px;
+	font-weight: regular;
+}
+
+body {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	color: #666666;
 }
 p, ul{
 font-size: 16px;
