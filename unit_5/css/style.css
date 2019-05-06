@@ -49,11 +49,3 @@ body {
 p, ul{
 font-size: 16px;
 }
-
-a:link {
-  color: white;
-  padding: 14px 25px;
-  text-align: center; 
-  text-decoration: none;
-  display: inline-block;
-}
